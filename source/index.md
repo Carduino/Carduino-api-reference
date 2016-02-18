@@ -7,7 +7,9 @@ language_tabs:
   - python
 
 toc_footers:
-  - <a href='carduino.dauliac.fr'>Plateforme Carduino</a>
+  - <a href='http://carduino.dauliac.fr'>Carduino App</a>
+  - <a href='http://docs.dauliac.fr'>Carduino Docs</a>
+  - <a href='https://github.com/Carduino'>GitHub</a>
   - <a href='http://www.estia.fr'>Site officiel ESTIA</a>
 
 includes:
